@@ -1,0 +1,23 @@
+{
+  "name": "intro_to_servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scott-Mitchell336/intro_to_servers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scott-Mitchell336/intro_to_servers/issues"
+  },
+  "homepage": "https://github.com/Scott-Mitchell336/intro_to_servers#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

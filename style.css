@@ -1,0 +1,14 @@
+
+.dog-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 8px;
+    display: inline-block;
+    min-width: 200px;
+}
+
+.dog-card h2 {
+    margin-top: 0;
+    color: #333;
+}
